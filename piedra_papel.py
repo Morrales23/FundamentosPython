@@ -40,6 +40,6 @@ else:
     elif choice_user == 'Tijeras' and choice_maq == 'Piedra':
         print("Gana Maquina!")
     else:
-        print("Gana usuario!")
+        print("Escribe Bien")
         
     
